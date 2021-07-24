@@ -1,5 +1,1 @@
-<?php
-
-echo("Network.AI");
-
-?>
+Hello World
